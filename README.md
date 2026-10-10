@@ -37,6 +37,9 @@ terminals fall back to 256 colors. If the colors look wrong, try:
 ```bash
 COLORTERM=truecolor node ascii-city.js
 ```
+### Images
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f24e104-2ca5-46a6-a1a6-67f56f56a4bf" />
+
 
 ## Controls
 
